@@ -1,0 +1,1241 @@
+[
+    {
+        "id": "upbit",
+        "name": "Upbit",
+        "adjusted_volume_24h_share": 17.51768084,
+        "fiats": [
+            {
+                "name": "South Korea Won",
+                "symbol": "KRW"
+            }
+        ]
+    },
+    {
+        "id": "latoken",
+        "name": "LATOKEN",
+        "adjusted_volume_24h_share": 12.75680292,
+        "fiats": []
+    },
+    {
+        "id": "digifinex",
+        "name": "DigiFinex",
+        "adjusted_volume_24h_share": 8.78659978,
+        "fiats": []
+    },
+    {
+        "id": "coinbase",
+        "name": "Coinbase",
+        "adjusted_volume_24h_share": 7.11728544,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            }
+        ]
+    },
+    {
+        "id": "binance",
+        "name": "Binance",
+        "adjusted_volume_24h_share": 6.51341162,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            },
+            {
+                "name": "Russian Ruble",
+                "symbol": "RUB"
+            },
+            {
+                "name": "Turkish Lira",
+                "symbol": "TRY"
+            },
+            {
+                "name": "Australian Dollar",
+                "symbol": "AUD"
+            },
+            {
+                "name": "Ukrainian Hryvnia",
+                "symbol": "UAH"
+            },
+            {
+                "name": "Nigerian Naira",
+                "symbol": "NGN"
+            },
+            {
+                "name": "South African Rand",
+                "symbol": "ZAR"
+            }
+        ]
+    },
+    {
+        "id": "okx",
+        "name": "OKX",
+        "adjusted_volume_24h_share": 4.40266647,
+        "fiats": []
+    },
+    {
+        "id": "bitexlive",
+        "name": "Bitexlive",
+        "adjusted_volume_24h_share": 4.30938297,
+        "fiats": [
+            {
+                "name": "Turkish Lira",
+                "symbol": "TRY"
+            }
+        ]
+    },
+    {
+        "id": "mexc",
+        "name": "MEXC",
+        "adjusted_volume_24h_share": 3.59335191,
+        "fiats": []
+    },
+    {
+        "id": "bkex",
+        "name": "Bkex",
+        "adjusted_volume_24h_share": 3.3147367,
+        "fiats": []
+    },
+    {
+        "id": "deepcoin",
+        "name": "Deepcoin",
+        "adjusted_volume_24h_share": 3.27995869,
+        "fiats": []
+    },
+    {
+        "id": "zedxion-exchange",
+        "name": "ZEDXION EXCHANGE",
+        "adjusted_volume_24h_share": 3.15802351,
+        "fiats": []
+    },
+    {
+        "id": "catex",
+        "name": "Catex",
+        "adjusted_volume_24h_share": 2.66330021,
+        "fiats": []
+    },
+    {
+        "id": "huobi",
+        "name": "Huobi",
+        "adjusted_volume_24h_share": 2.01284384,
+        "fiats": []
+    },
+    {
+        "id": "dex-trade",
+        "name": "Dex-Trade",
+        "adjusted_volume_24h_share": 1.89961349,
+        "fiats": []
+    },
+    {
+        "id": "coinsbit",
+        "name": "Coinsbit",
+        "adjusted_volume_24h_share": 1.67842146,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "bibox",
+        "name": "Bibox",
+        "adjusted_volume_24h_share": 1.44803799,
+        "fiats": []
+    },
+    {
+        "id": "bitmart",
+        "name": "BitMart",
+        "adjusted_volume_24h_share": 1.36145658,
+        "fiats": []
+    },
+    {
+        "id": "kraken",
+        "name": "Kraken",
+        "adjusted_volume_24h_share": 1.24737117,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            },
+            {
+                "name": "Canadian Dollar",
+                "symbol": "CAD"
+            },
+            {
+                "name": "Japanese Yen",
+                "symbol": "JPY"
+            },
+            {
+                "name": "Swiss Franc",
+                "symbol": "CHF"
+            }
+        ]
+    },
+    {
+        "id": "gokumarket",
+        "name": "GokuMarket",
+        "adjusted_volume_24h_share": 1.23524142,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "hollaex",
+        "name": "HollaEx",
+        "adjusted_volume_24h_share": 1.080307,
+        "fiats": []
+    },
+    {
+        "id": "oceanex",
+        "name": "OceanEx",
+        "adjusted_volume_24h_share": 1.03594568,
+        "fiats": []
+    },
+    {
+        "id": "bitforex",
+        "name": "BitForex",
+        "adjusted_volume_24h_share": 0.93754395,
+        "fiats": []
+    },
+    {
+        "id": "btc-alpha",
+        "name": "BTC-Alpha",
+        "adjusted_volume_24h_share": 0.82377971,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "binance-us",
+        "name": "Binance US",
+        "adjusted_volume_24h_share": 0.75305868,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "cointiger",
+        "name": "CoinTiger",
+        "adjusted_volume_24h_share": 0.53754913,
+        "fiats": []
+    },
+    {
+        "id": "btc6x-exchange",
+        "name": "BTC6X Exchange",
+        "adjusted_volume_24h_share": 0.46651763,
+        "fiats": []
+    },
+    {
+        "id": "betconix",
+        "name": "BETCONIX",
+        "adjusted_volume_24h_share": 0.45318999,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "ftx",
+        "name": "FTX (Spot)",
+        "adjusted_volume_24h_share": 0.43066878,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "btcix",
+        "name": "Btcix",
+        "adjusted_volume_24h_share": 0.40292424,
+        "fiats": []
+    },
+    {
+        "id": "gemini",
+        "name": "Gemini",
+        "adjusted_volume_24h_share": 0.36663094,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            }
+        ]
+    },
+    {
+        "id": "bitfinex",
+        "name": "Bitfinex",
+        "adjusted_volume_24h_share": 0.30728935,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            },
+            {
+                "name": "Japanese Yen",
+                "symbol": "JPY"
+            }
+        ]
+    },
+    {
+        "id": "currency-com",
+        "name": "Currency.com",
+        "adjusted_volume_24h_share": 0.2836075,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Polish Zloty",
+                "symbol": "PLN"
+            },
+            {
+                "name": "Turkish Lira",
+                "symbol": "TRY"
+            },
+            {
+                "name": "Hong Kong Dollar",
+                "symbol": "HKD"
+            },
+            {
+                "name": "Danish Krone",
+                "symbol": "DKK"
+            },
+            {
+                "name": "Norwegian Krone",
+                "symbol": "NOK"
+            },
+            {
+                "name": "Swedish Krona",
+                "symbol": "SEK"
+            }
+        ]
+    },
+    {
+        "id": "hotbit",
+        "name": "Hotbit",
+        "adjusted_volume_24h_share": 0.2770354,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "bitvavo",
+        "name": "Bitvavo",
+        "adjusted_volume_24h_share": 0.2695512,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "p2b",
+        "name": "P2B",
+        "adjusted_volume_24h_share": 0.26381615,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "tidex",
+        "name": "Tidex",
+        "adjusted_volume_24h_share": 0.23450064,
+        "fiats": []
+    },
+    {
+        "id": "paribu",
+        "name": "Paribu",
+        "adjusted_volume_24h_share": 0.23117762,
+        "fiats": [
+            {
+                "name": "Turkish Lira",
+                "symbol": "TRY"
+            }
+        ]
+    },
+    {
+        "id": "counos-exchange",
+        "name": "Counos Exchange",
+        "adjusted_volume_24h_share": 0.22850151,
+        "fiats": []
+    },
+    {
+        "id": "bitkub",
+        "name": "Bitkub",
+        "adjusted_volume_24h_share": 0.22488475,
+        "fiats": [
+            {
+                "name": "Thai Baht",
+                "symbol": "THB"
+            }
+        ]
+    },
+    {
+        "id": "poloniex",
+        "name": "Poloniex",
+        "adjusted_volume_24h_share": 0.19724508,
+        "fiats": []
+    },
+    {
+        "id": "coinex",
+        "name": "CoinEx",
+        "adjusted_volume_24h_share": 0.19474343,
+        "fiats": []
+    },
+    {
+        "id": "vindax",
+        "name": "VinDAX",
+        "adjusted_volume_24h_share": 0.18912764,
+        "fiats": []
+    },
+    {
+        "id": "smartfi",
+        "name": "SmartFi",
+        "adjusted_volume_24h_share": 0.17854905,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "indodax",
+        "name": "Indodax",
+        "adjusted_volume_24h_share": 0.15180467,
+        "fiats": [
+            {
+                "name": "Indonesian Rupiah",
+                "symbol": "IDR"
+            }
+        ]
+    },
+    {
+        "id": "zbg",
+        "name": "ZBG",
+        "adjusted_volume_24h_share": 0.15177417,
+        "fiats": []
+    },
+    {
+        "id": "bigone",
+        "name": "BigONE",
+        "adjusted_volume_24h_share": 0.14693858,
+        "fiats": []
+    },
+    {
+        "id": "arthbit",
+        "name": "ArthBit",
+        "adjusted_volume_24h_share": 0.14417022,
+        "fiats": []
+    },
+    {
+        "id": "txbit",
+        "name": "Txbit",
+        "adjusted_volume_24h_share": 0.07785622,
+        "fiats": []
+    },
+    {
+        "id": "patriot-exchange",
+        "name": "Patriot Exchange",
+        "adjusted_volume_24h_share": 0.06833511,
+        "fiats": []
+    },
+    {
+        "id": "bitunivex",
+        "name": "Bitunivex",
+        "adjusted_volume_24h_share": 0.06833511,
+        "fiats": []
+    },
+    {
+        "id": "bitcom",
+        "name": "Bit.com",
+        "adjusted_volume_24h_share": 0.0683153,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "criptoswaps",
+        "name": "Criptoswaps",
+        "adjusted_volume_24h_share": 0.06242502,
+        "fiats": [
+            {
+                "name": "Turkish Lira",
+                "symbol": "TRY"
+            }
+        ]
+    },
+    {
+        "id": "bittrex",
+        "name": "Bittrex",
+        "adjusted_volume_24h_share": 0.05818311,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "dexzbitz",
+        "name": "Dexzbitz",
+        "adjusted_volume_24h_share": 0.05587484,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "exmo",
+        "name": "Exmo",
+        "adjusted_volume_24h_share": 0.0470886,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Polish Zloty",
+                "symbol": "PLN"
+            },
+            {
+                "name": "Russian Ruble",
+                "symbol": "RUB"
+            },
+            {
+                "name": "Ukrainian Hryvnia",
+                "symbol": "UAH"
+            }
+        ]
+    },
+    {
+        "id": "huobi-korea",
+        "name": "Huobi Korea",
+        "adjusted_volume_24h_share": 0.04592336,
+        "fiats": []
+    },
+    {
+        "id": "bitbns",
+        "name": "Bitbns",
+        "adjusted_volume_24h_share": 0.04288881,
+        "fiats": [
+            {
+                "name": "Indian Rupee",
+                "symbol": "INR"
+            }
+        ]
+    },
+    {
+        "id": "litebiteu",
+        "name": "LiteBit.eu",
+        "adjusted_volume_24h_share": 0.02785881,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "tarmex",
+        "name": "Tarmex",
+        "adjusted_volume_24h_share": 0.0163642,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "ndax",
+        "name": "NDAX",
+        "adjusted_volume_24h_share": 0.01321396,
+        "fiats": [
+            {
+                "name": "Canadian Dollar",
+                "symbol": "CAD"
+            }
+        ]
+    },
+    {
+        "id": "cex-trade",
+        "name": "Cex-Trade",
+        "adjusted_volume_24h_share": 0.01192792,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "bitpanda-pro",
+        "name": "Bitpanda Pro",
+        "adjusted_volume_24h_share": 0.01077161,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            },
+            {
+                "name": "Swiss Franc",
+                "symbol": "CHF"
+            }
+        ]
+    },
+    {
+        "id": "dasset",
+        "name": "Dasset",
+        "adjusted_volume_24h_share": 0.00961318,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "bitladon",
+        "name": "Bitladon",
+        "adjusted_volume_24h_share": 0.00916618,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "nicehash",
+        "name": "NiceHash",
+        "adjusted_volume_24h_share": 0.00810522,
+        "fiats": []
+    },
+    {
+        "id": "365-stream",
+        "name": "365 stream",
+        "adjusted_volume_24h_share": 0.00809234,
+        "fiats": []
+    },
+    {
+        "id": "novadax",
+        "name": "NovaDAX",
+        "adjusted_volume_24h_share": 0.00668719,
+        "fiats": [
+            {
+                "name": "Brazil Real",
+                "symbol": "BRL"
+            }
+        ]
+    },
+    {
+        "id": "cexio",
+        "name": "CEX.IO",
+        "adjusted_volume_24h_share": 0.00359949,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            }
+        ]
+    },
+    {
+        "id": "tunatrades",
+        "name": "TUNATRADES",
+        "adjusted_volume_24h_share": 0.00341981,
+        "fiats": []
+    },
+    {
+        "id": "yobit",
+        "name": "YoBit",
+        "adjusted_volume_24h_share": 0.00326087,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Russian Ruble",
+                "symbol": "RUB"
+            }
+        ]
+    },
+    {
+        "id": "zonda",
+        "name": "Zonda",
+        "adjusted_volume_24h_share": 0.00301882,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            },
+            {
+                "name": "Polish Zloty",
+                "symbol": "PLN"
+            }
+        ]
+    },
+    {
+        "id": "tradeogre",
+        "name": "TradeOgre",
+        "adjusted_volume_24h_share": 0.00277869,
+        "fiats": []
+    },
+    {
+        "id": "hitbtc",
+        "name": "HitBTC",
+        "adjusted_volume_24h_share": 0.002612,
+        "fiats": []
+    },
+    {
+        "id": "anycoin-direct",
+        "name": "Anycoin Direct",
+        "adjusted_volume_24h_share": 0.00185119,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "coinamount",
+        "name": "CoinAmount",
+        "adjusted_volume_24h_share": 0.00079323,
+        "fiats": []
+    },
+    {
+        "id": "xeggex",
+        "name": "Xeggex",
+        "adjusted_volume_24h_share": 0.00066708,
+        "fiats": []
+    },
+    {
+        "id": "btc-trade-ua",
+        "name": "BTC Trade UA",
+        "adjusted_volume_24h_share": 0.00038713,
+        "fiats": [
+            {
+                "name": "Ukrainian Hryvnia",
+                "symbol": "UAH"
+            }
+        ]
+    },
+    {
+        "id": "southxchange",
+        "name": "SouthXchange",
+        "adjusted_volume_24h_share": 0.00034512,
+        "fiats": []
+    },
+    {
+        "id": "bitubu",
+        "name": "BitUBU",
+        "adjusted_volume_24h_share": 0.00030501,
+        "fiats": []
+    },
+    {
+        "id": "stakecube",
+        "name": "StakeCube",
+        "adjusted_volume_24h_share": 0.00022922,
+        "fiats": []
+    },
+    {
+        "id": "koinim",
+        "name": "Koinim",
+        "adjusted_volume_24h_share": 0.00020354,
+        "fiats": [
+            {
+                "name": "Turkish Lira",
+                "symbol": "TRY"
+            }
+        ]
+    },
+    {
+        "id": "freiexchange",
+        "name": "FreiExchange",
+        "adjusted_volume_24h_share": 0.00016626,
+        "fiats": []
+    },
+    {
+        "id": "exbitron",
+        "name": "Exbitron",
+        "adjusted_volume_24h_share": 0.0000873,
+        "fiats": []
+    },
+    {
+        "id": "graviex",
+        "name": "Graviex",
+        "adjusted_volume_24h_share": 0.00008593,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "finexbox",
+        "name": "FINEXBOX",
+        "adjusted_volume_24h_share": 0.00003938,
+        "fiats": []
+    },
+    {
+        "id": "atomicdex",
+        "name": "AtomicDEX",
+        "adjusted_volume_24h_share": 0.00001907,
+        "fiats": []
+    },
+    {
+        "id": "xbts",
+        "name": "XBTS",
+        "adjusted_volume_24h_share": 0.00001813,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Russian Ruble",
+                "symbol": "RUB"
+            },
+            {
+                "name": "Yuan Renminbi",
+                "symbol": "CNY"
+            }
+        ]
+    },
+    {
+        "id": "the-rock-trading",
+        "name": "The Rock Trading",
+        "adjusted_volume_24h_share": 0.00001636,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            }
+        ]
+    },
+    {
+        "id": "unnamed",
+        "name": "Unnamed",
+        "adjusted_volume_24h_share": 0.00001582,
+        "fiats": []
+    },
+    {
+        "id": "stex",
+        "name": "STEX",
+        "adjusted_volume_24h_share": 0.00001393,
+        "fiats": []
+    },
+    {
+        "id": "altmarkets",
+        "name": "AltMarkets",
+        "adjusted_volume_24h_share": 0.00000635,
+        "fiats": []
+    },
+    {
+        "id": "safetrade",
+        "name": "SafeTrade",
+        "adjusted_volume_24h_share": 0.00000502,
+        "fiats": []
+    },
+    {
+        "id": "exchangeassets",
+        "name": "ExchangeAssets",
+        "adjusted_volume_24h_share": 0.00000257,
+        "fiats": []
+    },
+    {
+        "id": "ionomy-exchange",
+        "name": "Ionomy Exchange",
+        "adjusted_volume_24h_share": 0.00000215,
+        "fiats": []
+    },
+    {
+        "id": "fatbtc",
+        "name": "Fatbtc",
+        "adjusted_volume_24h_share": 0.00000181,
+        "fiats": []
+    },
+    {
+        "id": "autradex-systems",
+        "name": "Autradex Systems",
+        "adjusted_volume_24h_share": 0.00000103,
+        "fiats": []
+    },
+    {
+        "id": "02x6",
+        "name": "02x6",
+        "adjusted_volume_24h_share": 6.9e-7,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "satoexchange",
+        "name": "SatoExchange",
+        "adjusted_volume_24h_share": 6.8e-7,
+        "fiats": []
+    },
+    {
+        "id": "richamster",
+        "name": "Richamster",
+        "adjusted_volume_24h_share": 2e-7,
+        "fiats": [
+            {
+                "name": "Ukrainian Hryvnia",
+                "symbol": "UAH"
+            }
+        ]
+    },
+    {
+        "id": "bololex",
+        "name": "Bololex",
+        "adjusted_volume_24h_share": 1.7e-7,
+        "fiats": []
+    },
+    {
+        "id": "piratecash-dex",
+        "name": "PirateCash DEX",
+        "adjusted_volume_24h_share": 1.4e-7,
+        "fiats": []
+    },
+    {
+        "id": "freebitcoins",
+        "name": "FreeBitcoins",
+        "adjusted_volume_24h_share": 3e-8,
+        "fiats": []
+    },
+    {
+        "id": "cratex",
+        "name": "Cratex",
+        "adjusted_volume_24h_share": 1e-8,
+        "fiats": []
+    },
+    {
+        "id": "fmfwio",
+        "name": "FMFW.io",
+        "adjusted_volume_24h_share": 0,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            }
+        ]
+    },
+    {
+        "id": "deliondex",
+        "name": "Deliondex",
+        "adjusted_volume_24h_share": 0,
+        "fiats": []
+    },
+    {
+        "id": "asymetrex",
+        "name": "Asymetrex",
+        "adjusted_volume_24h_share": 0,
+        "fiats": []
+    },
+    {
+        "id": "fibercoin-exchange",
+        "name": "Fibercoin Exchange",
+        "adjusted_volume_24h_share": 0,
+        "fiats": []
+    },
+    {
+        "id": "bisq",
+        "name": "Bisq",
+        "adjusted_volume_24h_share": 0,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            },
+            {
+                "name": "Canadian Dollar",
+                "symbol": "CAD"
+            },
+            {
+                "name": "Japanese Yen",
+                "symbol": "JPY"
+            },
+            {
+                "name": "Polish Zloty",
+                "symbol": "PLN"
+            },
+            {
+                "name": "Russian Ruble",
+                "symbol": "RUB"
+            },
+            {
+                "name": "New Zealand Dollar",
+                "symbol": "NZD"
+            },
+            {
+                "name": "Australian Dollar",
+                "symbol": "AUD"
+            },
+            {
+                "name": "Swiss Franc",
+                "symbol": "CHF"
+            },
+            {
+                "name": "Hong Kong Dollar",
+                "symbol": "HKD"
+            },
+            {
+                "name": "Mexican Peso",
+                "symbol": "MXN"
+            },
+            {
+                "name": "Brazil Real",
+                "symbol": "BRL"
+            },
+            {
+                "name": "Thai Baht",
+                "symbol": "THB"
+            },
+            {
+                "name": "Chilean Peso",
+                "symbol": "CLP"
+            },
+            {
+                "name": "Czech Koruna",
+                "symbol": "CZK"
+            },
+            {
+                "name": "Hungarian Forint",
+                "symbol": "HUF"
+            },
+            {
+                "name": "Indian Rupee",
+                "symbol": "INR"
+            },
+            {
+                "name": "Norwegian Krone",
+                "symbol": "NOK"
+            },
+            {
+                "name": "Swedish Krona",
+                "symbol": "SEK"
+            },
+            {
+                "name": "South African Rand",
+                "symbol": "ZAR"
+            }
+        ]
+    },
+    {
+        "id": "zebitex",
+        "name": "ZEBITEX",
+        "adjusted_volume_24h_share": 0,
+        "fiats": [
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            }
+        ]
+    },
+    {
+        "id": "qtrade",
+        "name": "qTrade",
+        "adjusted_volume_24h_share": 0,
+        "fiats": []
+    },
+    {
+        "id": "bitocto-exchange",
+        "name": "Bitocto Exchange",
+        "adjusted_volume_24h_share": 0,
+        "fiats": [
+            {
+                "name": "Indonesian Rupiah",
+                "symbol": "IDR"
+            }
+        ]
+    },
+    {
+        "id": "coin-galaxy",
+        "name": "Coin Galaxy",
+        "adjusted_volume_24h_share": 0,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Russian Ruble",
+                "symbol": "RUB"
+            }
+        ]
+    },
+    {
+        "id": "bittylicious",
+        "name": "Bittylicious",
+        "adjusted_volume_24h_share": 0,
+        "fiats": [
+            {
+                "name": "US Dollars",
+                "symbol": "USD"
+            },
+            {
+                "name": "Euro",
+                "symbol": "EUR"
+            },
+            {
+                "name": "Pound Sterling",
+                "symbol": "GBP"
+            }
+        ]
+    },
+    {
+        "id": "bankcex",
+        "name": "BankCEX",
+        "adjusted_volume_24h_share": 0,
+        "fiats": []
+    },
+    {
+        "id": "ex4ange",
+        "name": "Ex4ange",
+        "adjusted_volume_24h_share": 0,
+        "fiats": []
+    },
+    {
+        "id": "occe",
+        "name": "OCCE",
+        "adjusted_volume_24h_share": 0,
+        "fiats": [
+            {
+                "name": "Ukrainian Hryvnia",
+                "symbol": "UAH"
+            }
+        ]
+    },
+    {
+        "id": "exchangily",
+        "name": "eXchangily",
+        "adjusted_volume_24h_share": 0,
+        "fiats": []
+    }
+]
