@@ -1,5 +1,5 @@
 export default async function getExchangesDetails() {
-    const response = await fetch("https://api.coinpaprika.com/v1/coins/doge-dogecoin/exchanges")
+    const response = await fetch("./getExchanges.json")
     const exchangeDetail = await response.json();
     return exchangeDetail
 }
